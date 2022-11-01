@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "nethervestmod:block/eccukra_star_stage3"
+  }
+}

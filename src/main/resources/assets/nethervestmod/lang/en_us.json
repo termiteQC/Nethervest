@@ -1,0 +1,30 @@
+{
+  "item.nethervestmod.ibeo_flower": "Ibeo Flower",
+  "item.nethervestmod.ibeo_flower_seed": "Ibeo Flower Seed",
+  "item.nethervestmod.eccukra_star": "Eccukra Star",
+  "item.nethervestmod.eccukra_star_seed": "Eccukra Star Seed",
+  "item.nethervestmod.demon_calamansi": "Demon Calamansi",
+  "item.nethervestmod.demon_calamansi_seed": "Demon Calamansi Seed",
+  "item.nethervestmod.violet_acerola": "Violet Acerola",
+  "item.nethervestmod.violet_acerola_seed": "Violet Acerola Seed",
+  "item.nethervestmod.netheart": "Netheart",
+  "item.nethervestmod.netheart_seed": "Netheart Seed",
+  "item.nethervestmod.hate_pea": "Hate Pea",
+  "item.nethervestmod.hate_pea_seed": "Hate Pea Seed",
+  "item.nethervestmod.pygmy_olive": "Pygmy Olive",
+  "item.nethervestmod.pygmy_olive_seed": "Pygmy Olive Seed",
+
+  "block.nethervestmod.netherrack_farmland_block": "Netherrack Farmland",
+  "block.nethervestmod.ibeo_flower_crop": "Ibeo Flower Crop",
+  "block.nethervestmod.eccukra_star_crop": "Eccukra Star Crop",
+  "block.nethervestmod.demon_calamansi_crop": "Demon Calamansi Crop",
+  "block.nethervestmod.violet_acerola_crop": "Violet Acerola Crop",
+  "block.nethervestmod.netheart_crop": "Netheart Crop",
+  "block.nethervestmod.hate_pea_crop": "Hate Pea Crop",
+  "block.nethervestmod.pygmy_olive_crop": "Pygmy Olive Crop",
+
+  "itemGroup.nethervesttabfruits": "NetherVest Fruits",
+  "itemGroup.nethervesttablegumes": "NetherVest Legumes",
+  "itemGroup.nethervesttabseeds": "NetherVest Seeds",
+  "itemGroup.nethervesttabfarmlands": "NetherVest Farmlands"
+}

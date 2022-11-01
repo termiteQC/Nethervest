@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:netherrack"
+      }
+    ],
+    "X": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "#X#",
+    "#X#"
+  ],
+  "result": {
+    "item": "nethervestmod:netherrack_farmland_block"
+  }
+}

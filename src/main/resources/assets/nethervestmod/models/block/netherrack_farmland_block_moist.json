@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "minecraft:block/netherrack",
+    "top": "nethervestmod:block/netherrack_farmland_block_moist"
+  }
+}

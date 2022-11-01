@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item"
+      :
+      "nethervestmod:ibeo_flower"
+    }
+  ],
+
+  "result": {
+    "item": "nethervestmod:ibeo_flower_seed"
+  }
+}

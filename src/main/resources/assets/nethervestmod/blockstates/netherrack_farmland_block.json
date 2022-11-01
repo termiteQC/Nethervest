@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=1": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=2": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=3": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=4": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=5": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=6": {
+      "model": "nethervestmod:block/netherrack_farmland_block"
+    },
+    "moisture=7": {
+      "model": "nethervestmod:block/netherrack_farmland_block_moist"
+    }
+  }
+}

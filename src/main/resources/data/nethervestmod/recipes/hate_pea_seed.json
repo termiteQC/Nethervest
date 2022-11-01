@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item"
+      :
+      "nethervestmod:hate_pea"
+    }
+  ],
+
+  "result": {
+    "item": "nethervestmod:hate_pea_seed"
+  }
+}

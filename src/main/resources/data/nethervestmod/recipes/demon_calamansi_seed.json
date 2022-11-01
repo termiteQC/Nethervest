@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item"
+      :
+      "nethervestmod:demon_calamansi"
+    }
+  ],
+
+  "result": {
+    "item": "nethervestmod:demon_calamansi_seed"
+  }
+}

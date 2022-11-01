@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "nethervestmod:block/violet_acerola_stage4"
+  }
+}

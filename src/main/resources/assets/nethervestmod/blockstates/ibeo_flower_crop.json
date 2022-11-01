@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": { "model": "nethervestmod:block/ibeo_flower_stage0"},
+    "age=1": { "model": "nethervestmod:block/ibeo_flower_stage1"},
+    "age=2": { "model": "nethervestmod:block/ibeo_flower_stage2"},
+    "age=3": { "model": "nethervestmod:block/ibeo_flower_stage3"},
+    "age=4": { "model": "nethervestmod:block/ibeo_flower_stage4"},
+    "age=5": { "model": "nethervestmod:block/ibeo_flower_stage5"}
+  }
+}

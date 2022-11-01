@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+    "item"
+    :
+    "nethervestmod:eccukra_star"
+    }
+  ],
+
+  "result": {
+    "item": "nethervestmod:eccukra_star_seed"
+  }
+}

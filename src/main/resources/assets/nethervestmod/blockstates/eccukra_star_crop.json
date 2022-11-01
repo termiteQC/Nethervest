@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": { "model": "nethervestmod:block/eccukra_star_stage0"},
+    "age=1": { "model": "nethervestmod:block/eccukra_star_stage1"},
+    "age=2": { "model": "nethervestmod:block/eccukra_star_stage2"},
+    "age=3": { "model": "nethervestmod:block/eccukra_star_stage3"},
+    "age=4": { "model": "nethervestmod:block/eccukra_star_stage4"},
+    "age=5": { "model": "nethervestmod:block/eccukra_star_stage5"},
+    "age=6": { "model": "nethervestmod:block/eccukra_star_stage6"}
+  }
+}
