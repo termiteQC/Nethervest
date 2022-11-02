@@ -47,6 +47,7 @@ public class NetherVestMod {
             ItemBlockRenderTypes.setRenderLayer(ModBlocks.NETHEART_CROP.get(), RenderType.cutout());
             ItemBlockRenderTypes.setRenderLayer(ModBlocks.HATE_PEA_CROP.get(), RenderType.cutout());
             ItemBlockRenderTypes.setRenderLayer(ModBlocks.PYGMY_OLIVE_CROP.get(), RenderType.cutout());
+            ItemBlockRenderTypes.setRenderLayer(ModBlocks.SPIKY_XEOGUS_CROP.get(), RenderType.cutout());
 
         }
     }

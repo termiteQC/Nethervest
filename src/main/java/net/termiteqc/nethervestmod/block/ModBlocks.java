@@ -43,6 +43,10 @@ public class ModBlocks {
     public static final RegistryObject<Block> PYGMY_OLIVE_CROP = BLOCKS.register("pygmy_olive_crop",
             () -> new PygmyOliveCropBlock(BlockBehaviour.Properties.copy(Blocks.CARROTS)));
 
+    public static final RegistryObject<Block> SPIKY_XEOGUS_CROP = BLOCKS.register("spiky_xeogus_crop",
+            () -> new SpikyXeogusCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT)));
+
+
     public static final RegistryObject<Block> NETHERRACK_FARMLAND_BLOCK = registerBlock("netherrack_farmland_block",
             () -> new NetherrackFarmlandBlock(BlockBehaviour.Properties.of(Material.DIRT)), ModCreativeModeTab.NETHERVEST_TAB_FARMLANDS);
 

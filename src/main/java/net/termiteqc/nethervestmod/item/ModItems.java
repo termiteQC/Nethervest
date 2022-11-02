@@ -3,6 +3,7 @@ package net.termiteqc.nethervestmod.item;
 import net.minecraft.core.Registry;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.HoneyBottleItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemNameBlockItem;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -70,7 +71,17 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.NETHERVEST_TAB_LEGUMES)
                     .food(new FoodProperties.Builder().nutrition(2).saturationMod(0.5f).build())));
 
+    public static final RegistryObject<Item> SPIKY_XEOGUS_SEED = ITEMS.register("spiky_xeogus_seed",
+            () -> new ItemNameBlockItem(ModBlocks.SPIKY_XEOGUS_CROP.get()
+                    , new Item.Properties().tab(ModCreativeModeTab.NETHERVEST_TAB_SEEDS)));
+
+    public static final RegistryObject<Item> SPIKY_XEOGUS = ITEMS.register("spiky_xeogus",
+            () -> new XeogusFoodItem(new Item.Properties().tab(ModCreativeModeTab.NETHERVEST_TAB_FRUITS)
+                    .food(new FoodProperties.Builder().nutrition(20).saturationMod(5.0f).build())));
+
     public static void register (IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
+
+
 }

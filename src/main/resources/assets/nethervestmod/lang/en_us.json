@@ -13,6 +13,8 @@
   "item.nethervestmod.hate_pea_seed": "Hate Pea Seed",
   "item.nethervestmod.pygmy_olive": "Pygmy Olive",
   "item.nethervestmod.pygmy_olive_seed": "Pygmy Olive Seed",
+  "item.nethervestmod.spiky_xeogus": "Spiky Xeogus",
+  "item.nethervestmod.spiky_xeogus_seed": "Spiky Xeogus Seed",
 
   "block.nethervestmod.netherrack_farmland_block": "Netherrack Farmland",
   "block.nethervestmod.ibeo_flower_crop": "Ibeo Flower Crop",
@@ -22,6 +24,7 @@
   "block.nethervestmod.netheart_crop": "Netheart Crop",
   "block.nethervestmod.hate_pea_crop": "Hate Pea Crop",
   "block.nethervestmod.pygmy_olive_crop": "Pygmy Olive Crop",
+  "block.nethervestmod.spiky_xeogus_crop": "Spiky Xeogus Crop",
 
   "itemGroup.nethervesttabfruits": "NetherVest Fruits",
   "itemGroup.nethervesttablegumes": "NetherVest Legumes",
